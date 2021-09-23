@@ -8,7 +8,7 @@ public class rom {
         int M=0; //M: 1000
                  //D: 500
         int C=0; //C: 100
-                 //L: 50
+                 //L: 50  //check
         int X=0; //X: 10
                  //V: 5
         int I=0; //I: 1
